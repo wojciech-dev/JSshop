@@ -16,6 +16,9 @@ all based on localStorage
 * WebPack
 * Git
 
+Preview site:
+<img src="http://propozycja.vot.pl/git/bookstore.jpg" alt="#">
+
 ## Demo online
 
 [Visit online](http://bookstore.vot.pl/)
